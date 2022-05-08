@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xlr10/xlr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=81BEF7&height=300&section=header&text=EomJIHO⛩&fontSize=90&fontColor=8258FA)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=81BEF7&height=300&section=header&text=EomJIHO&fontSize=90&fontColor=8258FA)
 
 <div align=center>
-## 🌹 t e c h 🌹
+### 🌹 t e c h 🌹
 </div>
