@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<h3>My Notion -> </h3>
+<h2>🔰xlr10's Notion🔰</h2>
+<p><a href="https://www.notion.so/16b943bd42b144f1a5822e1653af10ab" target="_blank"><img src="https://img.shields.io/badge/Notion-00148C?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+
   
 #
 <h3> 🧑‍🔧 tech 🧑‍🔧 </h3>
