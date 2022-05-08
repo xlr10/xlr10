@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=Slice&color=81BEF7&height=300&section=header&text=EomJIHO&fontSize=90&fontColor=8258FA)
 
 <div align=center>
-![header](https://capsule-render.vercel.app/api?type=Slice&color=81BEF7&height=300&section=header&text=EomJIHO&fontSize=90&fontColor=8258FA)
 
   ***
   
